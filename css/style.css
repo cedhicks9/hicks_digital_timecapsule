@@ -5,4 +5,9 @@ img{
     width: 250px;
     height: 250px;
 }
+body
+{
+background-color: black;
+color: white;
+}
 
