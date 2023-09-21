@@ -37,7 +37,9 @@ padding-bottom: 100;
 }
 .places
 {
-
+    font-family: 'Quicksand', sans-serif;   
+    text-align: left;
+    color:bisque;
 }
 div
 {
@@ -49,6 +51,9 @@ div
     margin:15px 60px 200px,35px;
     padding: 75px; 
 }
+
+
+
 footer
 {
 text-align:center;
