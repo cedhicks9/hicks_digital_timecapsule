@@ -7,19 +7,31 @@ img{
 }
 body
 {
-background-color: black;
+background-color:#704D36;
+font-family: 'Quicksand', sans-serif;
 color: white;
+
 }
 nav,a
 {
+font-family: 'Quicksand', sans-serif;
 text-decoration: none;
 color: beige;
 }
+h1
+{
+font-family: 'Quicksand', sans-serif;   
+text-align: center;
+color:bisque;
+}
 p
 {
-margin:30px 100px 50px 50px ;
+   
+margin:10px 50px 50px 50px ;
 padding-right:100px;
-padding-left: 200px;
+padding-left: 100px;
+padding-top: 100;
+padding-bottom: 100;
 }
 .places
 {
