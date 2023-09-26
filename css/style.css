@@ -35,11 +35,9 @@ p
     flex-wrap: wrap;
     justify-content: space-between;
     width:85%;
-    margin:10%, 10%, 10%,10%;
-    padding-left: 5%;
-    padding-right: 5%;
-    padding-top: 5%;
-    padding-bottom: 5%;
+    margin:10px,10px,10px,10px;
+    padding: 5%;
+   
 
 }
 .places
@@ -50,8 +48,8 @@ p
     flex-wrap: wrap;
     justify-content: space-around;
     width:85%;
-    margin:15px 60px 200px,35px;
-    padding: 75px; 
+    margin:15px,60px,200px,35px;
+    padding: 40px; 
     font-family: 'Quicksand', sans-serif;   
     text-align: left;
     color:bisque;
@@ -62,7 +60,7 @@ p
     flex-direction:column;
     flex-wrap: wrap;
     justify-content: space-between;
-    padding: 10%,10% 10% 10%;
+    padding: 10%,10%,10%,10%;
     width: 25%;
     margin: 5%,5%,5%, 5%;
 }
@@ -71,7 +69,7 @@ p
 
 footer
 {
-    margin:25px,100px,100px 70px ;
+    margin:25px,100px,100px,70px ;
     padding-top: 35%;
 text-align:center;
 }
