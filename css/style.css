@@ -28,18 +28,7 @@ font-family: 'Quicksand', sans-serif;
 text-align: center;
 color:bisque;
 }
-p
-{
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    width:85%;
-    margin:10px,10px,10px,10px;
-    padding: 5%;
-   
 
-}
 .places
 {
    
@@ -59,12 +48,23 @@ p
     display: flex;
     flex-direction:column;
     flex-wrap: wrap;
-    justify-content: space-between;
-    padding: 10%,10%,10%,10%;
+    justify-content: start;
+    padding: 10%;
     width: 25%;
-    margin: 5%,5%,5%, 5%;
+    margin: 5%;
 }
+p
+{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: start;
+    width:85%;
+    margin:10px;
+    padding: 5%;
+   
 
+}
 
 
 footer
